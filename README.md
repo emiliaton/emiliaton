@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emilia!
-- 👀 I’m interested in Psychology, Philosophy, Design and Baking.
-- 🌱 I’m currently learning Data Visualization, Python and JavaScript.
-- 💞️ I’m looking to collaborate on UX Projects and Game Design.
+- 👀 I’m interested in Psychology, Design and Front-end.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on UX Projects.
 - 📫 Let's connect: https://www.linkedin.com/in/pham-thuy-vu-emilia-ton/
 
 <!---
